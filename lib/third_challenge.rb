@@ -17,18 +17,18 @@ def third_challenge
       :hero_friends => []
    }, 
    :capulet => {
-      patriarch: {
+      :patriarch => {
         name: "Lord Capulet",
         age: "51"
         },
       :matriarch => {
-        :name => "Lady Capulet",
-        :age "51"
+        name: "Lady Capulet",
+        age: "51"
         },
       :heroine => {
-        :name => "Juliet",
-        :age => "15",
-        :status => "alive"
+        name: "Juliet",
+        age: "15",
+        status: "alive"
         },
       :heroine_friends => []
    }
